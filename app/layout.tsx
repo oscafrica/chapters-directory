@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
+import { Lato } from "next/font/google";
 import { Ubuntu } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 const ubuntu = Ubuntu({ subsets: ["latin"], weight: "400" });
+const lato = Lato({ subsets: ["latin"], weight: "400" });
 
 export const metadata: Metadata = {
   title: "OSCA Chapters Program",

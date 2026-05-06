@@ -57,7 +57,7 @@ export function EventCard({ event }: EventCardProps) {
             </CardDescription>
           </CardHeader>
           <CardContent>
-            <div className="flex flex-wrap gap-4 text-sm text-muted-foreground mb-4">
+            <div className="flex flex-wrap ml-2 gap-4 text-sm text-muted-foreground mb-4">
               <div className="flex items-center gap-1">
                 <Calendar className="w-4 h-4" />
                 <span>{formattedDate}</span>
@@ -72,7 +72,7 @@ export function EventCard({ event }: EventCardProps) {
               </div>
             </div>
             {event.rsvpUrl && upcoming && (
-              <Button asChild size="sm">
+              <Button asChild size="sm" className="ml-2">
                 <a
                   href={event.rsvpUrl}
                   target="_blank"

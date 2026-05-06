@@ -31,7 +31,7 @@ export function ChapterCard({ chapter, eventCount = 0 }: ChapterCardProps) {
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
           <Badge className="absolute bottom-3 left-3" variant="secondary">
             <MapPin className="w-3 h-3 mr-1" />
-            {chapter.city}, {chapter.state}, {chapter.country}, {chapter.region}
+            {chapter.city}, {chapter.state}, {chapter.country}
           </Badge>
         </div>
         <CardHeader className="pb-2">
