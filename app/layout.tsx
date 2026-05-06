@@ -1,10 +1,9 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Ubuntu } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
-const _geist = Geist({ subsets: ["latin"] });
-const _geistMono = Geist_Mono({ subsets: ["latin"] });
+const ubuntu = Ubuntu({ subsets: ["latin"], weight: "400" });
 
 export const metadata: Metadata = {
   title: "OSCA Chapters Program",
@@ -36,11 +35,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="bg-background">
-      <body className="font-sans antialiased">
-        {children}
-        {process.env.NODE_ENV === "production" && <Analytics />}
-      </body>
-    </html>
+    <>
+      <html lang="en" className="bg-background">
+        <body className={`${ubuntu.className} font-sans antialiased`}>
+          {children}
+          {process.env.NODE_ENV === "production" && <Analytics />}
+        </body>
+      </html>
+    </>
   );
 }
