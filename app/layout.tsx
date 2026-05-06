@@ -39,7 +39,9 @@ export default function RootLayout({
   return (
     <>
       <html lang="en" className="bg-background">
-        <body className={`${ubuntu.className} font-sans antialiased`}>
+        <body
+          className={`${ubuntu.className} font-sans antialiased bg-[url('/map.png')] bg-cover bg-center bg-no-repeat`}
+        >
           {children}
           {process.env.NODE_ENV === "production" && <Analytics />}
         </body>

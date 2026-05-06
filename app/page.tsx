@@ -1,18 +1,25 @@
+import Image from "next/image";
+
 import { getAllChaptersWithEvents } from "@/lib/data";
 import { ChaptersList } from "@/components/chapters-list";
 import { Footer } from "@/components/footer";
-import { MapPin } from "lucide-react";
 
 export default async function HomePage() {
   const chapters = await getAllChaptersWithEvents();
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen">
       <header className="border-b bg-card">
         <div className="container mx-auto px-4 py-8">
           <div className="flex items-center gap-3 mb-2">
             <div className="p-2 rounded-lg bg-primary text-primary-foreground">
-              <MapPin className="w-6 h-6" />
+              <Image
+                src="/logo-white.svg"
+                alt="OSCA Logo"
+                width={30}
+                height={30}
+                className="my-2"
+              />
             </div>
             <h1 className="text-3xl font-bold">
               Open Source Community Africa <br /> Chapters Program
