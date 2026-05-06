@@ -1,0 +1,46 @@
+[
+  {
+    "id": "abeokuta-001",
+    "chapterSlug": "abeokuta",
+    "title": "Cloud Native Seattle",
+    "description": "Monthly meetup focused on Kubernetes, containers, and cloud-native technologies. Sponsored by local tech giants.",
+    "date": "2026-05-18",
+    "time": "6:00 PM - 8:30 PM",
+    "location": "Amazon Meeting Center",
+    "rsvpUrl": "https://example.com/rsvp/sea-001",
+    "image": "https://images.unsplash.com/photo-1667372393086-9d4001d51cf1?w=400&h=200&fit=crop"
+  },
+  {
+    "id": "abeokuta-002",
+    "chapterSlug": "abeokuta",
+    "title": "Coffee & Code Morning",
+    "description": "Early morning coding session at a local coffee shop. Bring your laptop and work on personal projects with peers.",
+    "date": "2026-06-01",
+    "time": "7:00 AM - 9:00 AM",
+    "location": "Storyville Coffee, Pike Place",
+    "rsvpUrl": "https://example.com/rsvp/sea-002",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=200&fit=crop"
+  },
+  {
+    "id": "abeokuta-003",
+    "chapterSlug": "abeokuta",
+    "title": "Game Dev Jam",
+    "description": "Weekend game development jam. Create a game from scratch in 48 hours using any engine or framework.",
+    "date": "2026-02-15",
+    "time": "10:00 AM Sat - 6:00 PM Sun",
+    "location": "DigiPen Institute of Technology",
+    "rsvpUrl": "https://example.com/rsvp/sea-003",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&h=200&fit=crop"
+  },
+  {
+    "id": "abeokuta-004",
+    "chapterSlug": "abeokuta",
+    "title": "Machine Learning Study Group",
+    "description": "Bi-weekly study group working through ML courses and papers together. All skill levels welcome.",
+    "date": "2026-05-28",
+    "time": "6:30 PM - 8:30 PM",
+    "location": "Microsoft Campus, Building 99",
+    "rsvpUrl": "https://example.com/rsvp/sea-004",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&h=200&fit=crop"
+  }
+]

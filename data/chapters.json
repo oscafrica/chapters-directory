@@ -1,0 +1,803 @@
+{
+  "chapters": [
+    {
+      "slug": "kampala",
+      "name": "OSCA Kampala",
+      "city": "Kampala",
+      "state": "Kampala",
+      "country": "Uganda",
+      "region": "East Africa",
+      "email": "kampala@oscafrica.org",
+      "x": "osaborgs",
+      "leads": [],
+      "alumniLeads": [
+        {
+          "name": "Abraham Jerry Kakooza",
+          "linkedin": "kakoozajerry",
+          "github": "kakoozajerry",
+          "discord": "kakoozajerry#3520"
+        },
+        {
+          "name": "Deborah Aanyu",
+          "linkedin": "deborahaanyu",
+          "github": "deborahtrez",
+          "discord": "deborah#4944"
+        }
+      ]
+    },
+    {
+      "slug": "ado-ekiti",
+      "name": "OSCA Ado-Ekiti",
+      "city": "Ado Ekiti",
+      "state": "Ekiti",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "ado-ekiti@oscafrica.org",
+      "x": "oscaadoekiti",
+      "leads": [
+        {
+          "name": "Julius Niyi-Onifade",
+          "linkedin": "niyi-onifade-julius-ba4b541a9",
+          "github": "Julius36",
+          "discord": "OnifadeJulius1#3730"
+        },
+        {
+          "name": "Elijah Edun",
+          "linkedin": "elijah-edun-3850081a3",
+          "github": "Elijah699",
+          "discord": "_devcreed"
+        }
+      ],
+      "alumniLeads": [
+        {
+          "name": "Abdulmalik Salawu",
+          "linkedin": "saintmalik",
+          "github": "saintmalik",
+          "discord": "saintmalik#6320"
+        },
+        {
+          "name": "Oluwatosin Ayeni",
+          "linkedin": "ayenioluwatosin",
+          "github": "Ayenitosin03",
+          "discord": "Oluwatosin#1724"
+        }
+      ]
+    },
+    {
+      "slug": "uyo",
+      "name": "OSCA Uyo",
+      "city": "Uyo",
+      "state": "Akwa Ibom",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "uyo@oscafrica.org",
+      "x": "oscauyo",
+      "leads": [
+        {
+          "name": "Gloria Asuquo",
+          "linkedin": "gloria-asuquo-93572821a",
+          "github": "glowreeya-01",
+          "discord": "Glowreeyah#5012"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "bauchi",
+      "name": "OSCA Bauchi",
+      "city": "Bauchi",
+      "state": "Bauchi",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "bauchi@oscafrica.org",
+      "x": "oscabauchi",
+      "leads": [
+        {
+          "name": "Nuruddeen Sambo",
+          "linkedin": "nuruddeen-umar-sambo",
+          "github": "sambonuruddeen",
+          "discord": "Nuruddeen#9214"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "ibadan",
+      "name": "OSCA Ibadan",
+      "city": "Ibadan",
+      "state": "Oyo",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "ibadan@oscafrica.org",
+      "x": "oscaibadan",
+      "leads": [
+        {
+          "name": "Joel Olawanle",
+          "linkedin": "olawanlejoel",
+          "github": "olawanlejoel",
+          "discord": "To-best#4010"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "ikot-ekpene",
+      "name": "OSCA Ikot-Ekpene",
+      "city": "Ikot-Ekpene",
+      "state": "Akwa Ibom",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "ikot-ekpene@oscafrica.org",
+      "x": "oscaikotekpene",
+      "leads": [
+        {
+          "name": "Mfonido Mark",
+          "linkedin": "mfonido-mark-4baa42120",
+          "github": "favourmark05",
+          "discord": "MfonidoMark#8643"
+        },
+        {
+          "name": "Chibugo Illoh",
+          "linkedin": "chibugo-illoh2807",
+          "github": "Chibugo",
+          "discord": "Buggie#4329"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "ogbomoso",
+      "name": "OSCA Ogbomoso",
+      "city": "Ogbomoso",
+      "state": "Oyo",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "ogbomoso@oscafrica.org",
+      "x": "oscaogbomoso",
+      "leads": [
+        {
+          "name": "Stephen Afolayan",
+          "linkedin": "jilh",
+          "github": "jilh",
+          "discord": "Jilh#5548"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "awka",
+      "name": "OSCA Awka",
+      "city": "Awka",
+      "state": "Anambra",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "awka@oscafrica.org",
+      "x": "oscaawka",
+      "leads": [
+        {
+          "name": "Chinwendu Nwazojie",
+          "linkedin": "chinwendu-nwazojie",
+          "github": "lumencodes",
+          "discord": "lumencodes"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "lusaka",
+      "name": "OSCA Lusaka",
+      "city": "Lusaka",
+      "state": "Lusaka",
+      "country": "Zambia",
+      "region": "South Africa",
+      "email": "lusaka@oscafrica.org",
+      "x": "oscalusaka",
+      "leads": [
+        {
+          "name": "Joshua Chipile",
+          "linkedin": "joshuachipile",
+          "github": "sjtgs",
+          "discord": "sjtgs"
+        }
+      ],
+      "alumniLeads": [
+        {
+          "name": "Gerald Maboshe",
+          "linkedin": "geraldmaboshe",
+          "github": "geraldmaboshe",
+          "discord": "geraldmaboshe"
+        }
+      ]
+    },
+    {
+      "slug": "kano",
+      "name": "OSCA Kano",
+      "city": "Kano",
+      "state": "Kano",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "kano@oscafrica.org",
+      "x": "oscakano",
+      "leads": [
+        {
+          "name": "Hamza Danjaji Yakubu",
+          "linkedin": "bala-hantsi-33635256",
+          "github": "bhantsi",
+          "discord": "b_hantsi#2517"
+        },
+        {
+          "name": "Alhassan Atama",
+          "linkedin": "komputarist",
+          "github": "komputarist",
+          "discord": "komputarist"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "makurdi",
+      "name": "OSCA Makurdi",
+      "city": "Makurdi",
+      "state": "Benue",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "makurdi@oscafrica.org",
+      "x": "oscamakurdi",
+      "leads": [
+        {
+          "name": "Emmanuel Ujah",
+          "linkedin": "ujah",
+          "github": "logiquebox",
+          "discord": "logique#1462"
+        },
+        {
+          "name": "Rejoice Ukange",
+          "linkedin": "ukange-rejoice-19892122a",
+          "github": "Rejoice",
+          "discord": "riri_18076"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "abeokuta",
+      "name": "OSCA Abeokuta",
+      "city": "Abeokuta",
+      "state": "Ogun",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "abeokuta@oscafrica.org",
+      "x": "oscaabeokuta",
+      "leads": [
+        {
+          "name": "Adebayo Oluwaseun",
+          "linkedin": "seunbayo",
+          "github": "Seunbayo",
+          "discord": "Seunbayo#6995"
+        },
+        {
+          "name": "MacBobby Chibuzor",
+          "linkedin": "macbobby-chibuzor-348a6b19a",
+          "github": "theghostmac",
+          "discord": "ghost_mac#6861"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "nairobi",
+      "name": "OSCA Nairobi",
+      "city": "Nairobi",
+      "state": "Nairobi",
+      "country": "Kenya",
+      "region": "East Africa",
+      "email": "nairobi@oscafrica.org",
+      "x": "oscanairobi",
+      "leads": [
+        {
+          "name": "Brayan Mwanyumba",
+          "linkedin": "brayan-mwanyumba-309498227",
+          "github": "mwanyumba7",
+          "discord": "brayan_kai"
+        }
+      ],
+      "alumniLeads": [
+        {
+          "name": "Velda Kiara",
+          "linkedin": "veldakiara",
+          "github": "veldakarimi",
+          "discord": "Velda Kiara#3138"
+        },
+        {
+          "name": "Thabitha Kavyu",
+          "linkedin": "tabithakavyu",
+          "github": "TabithaKavyu",
+          "discord": "TabithaKavyu#2242"
+        }
+      ]
+    },
+    {
+      "slug": "ikeja",
+      "name": "OSCA Ikeja",
+      "city": "Ikeja",
+      "state": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "ikeja@oscafrica.org",
+      "x": "oscaikeja",
+      "leads": [
+        {
+          "name": "Boluwatife Ogundeyi",
+          "linkedin": "boluwatife-ogundeyi",
+          "github": "Boluwatifeh",
+          "discord": "Boluwatifeh"
+        }
+      ],
+      "alumniLeads": [
+        {
+          "name": "Mustapha Rufai",
+          "linkedin": "mustapha-rufai-46a03b65",
+          "github": "rufai",
+          "discord": "iafur#9349"
+        }
+      ]
+    },
+    {
+      "slug": "abuja",
+      "name": "OSCA Abuja",
+      "city": "Abuja",
+      "state": "FCT",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "abuja@oscafrica.org",
+      "x": "oscaabuja",
+      "leads": [
+        {
+          "name": "Adenike Ogunmodede",
+          "linkedin": "adenike-ogunmodede",
+          "github": "Denike-d",
+          "discord": "adenike.dev"
+        }
+      ],
+      "alumniLeads": [
+        {
+          "name": "Abel Ayub",
+          "linkedin": "abel-adugam-ayuba-8089b4145"
+        },
+        {
+          "name": "Abdulwahab Ashimi",
+          "linkedin": "abdulwahab-ashimi",
+          "github": "ibn-ashimi",
+          "discord": "Ashimi#4138"
+        }
+      ]
+    },
+    {
+      "slug": "akure",
+      "name": "OSCA Akure",
+      "city": "Akure",
+      "state": "Ondo",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "akure@oscafrica.org",
+      "x": "oscaakure",
+      "leads": [
+        {
+          "name": "Adewumi Sunkanmi",
+          "linkedin": "adewumi-sunkanmi-ab975817a",
+          "github": "GIfted-s"
+        },
+        {
+          "name": "Bolarinwa Ajayi",
+          "linkedin": "beec00des",
+          "github": "BeeC00des",
+          "discord": "beec00des"
+        }
+      ],
+      "alumniLeads": [
+        {
+          "name": "Philip Okiokio"
+        }
+      ]
+    },
+    {
+      "slug": "enugu",
+      "name": "OSCA Enugu",
+      "city": "Enugu",
+      "state": "Enugu",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "enugu@oscafrica.org",
+      "x": "oscaenugu",
+      "leads": [],
+      "alumniLeads": [
+        {
+          "name": "Alvin Okoro"
+        }
+      ]
+    },
+    {
+      "slug": "yola",
+      "name": "OSCA Yola",
+      "city": "Yola",
+      "state": "Adamawa",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "yola@oscafrica.org",
+      "x": "oscayola",
+      "leads": [
+        {
+          "name": "Zunnurayni Idris",
+          "linkedin": "zunnurayni-idris00",
+          "github": "Zunnurayni",
+          "discord": "Nurain#7166"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "calabar",
+      "name": "OSCA Calabar",
+      "city": "Calabar",
+      "state": "Cross River",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "calabar@oscafrica.org",
+      "x": "Osca_calabar",
+      "leads": [
+        {
+          "name": "Kennedy Ekanem",
+          "linkedin": "kennedy-ekanem-31834415a",
+          "github": "KenEkanem",
+          "discord": "dreamsrreal"
+        },
+        {
+          "name": "Uyohoini Blankson",
+          "linkedin": "uyohoini-blankson",
+          "github": "Usblankson",
+          "discord": "usblankson"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "warri",
+      "name": "OSCA Warri",
+      "city": "Warri",
+      "state": "Delta",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "warri@oscafrica.org",
+      "x": "oscawarri",
+      "leads": [
+        {
+          "name": "Fatimo Ajiboye",
+          "github": "Happiness20",
+          "discord": "Happiness20"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "ile-ife",
+      "name": "OSCA Ile-Ife",
+      "city": "Ile Ife",
+      "state": "Osun",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "ile-ife@oscafrica.org",
+      "x": "oscaileife",
+      "leads": [],
+      "alumniLeads": [
+        {
+          "name": "Precious Kolawole",
+          "linkedin": "kolawole-precious-8723b2198",
+          "github": "Precillieo",
+          "discord": "Precillieo"
+        },
+        {
+          "name": "Felix Ayoola",
+          "linkedin": "ayoolafelix",
+          "github": "ayoolafelix",
+          "discord": "ayoolafelix#7927"
+        },
+        {
+          "name": "Festus Idowu",
+          "linkedin": "festus-idowu",
+          "github": "Mcnoble1",
+          "discord": "Mcnoble FE#9149"
+        }
+      ]
+    },
+    {
+      "slug": "kaduna",
+      "name": "OSCA Kaduna",
+      "city": "Kaduna",
+      "state": "Kaduna",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "kaduna@oscafrica.org",
+      "x": "oscakaduna",
+      "leads": [
+        {
+          "name": "Abdullahi Yusuf",
+          "linkedin": "benyusouf",
+          "github": "benyusouf",
+          "discord": "benyusouf#6423"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "jos",
+      "name": "OSCA Jos",
+      "city": "Jos",
+      "state": "Plateau",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "jos@oscafrica.org",
+      "x": "oscajos",
+      "leads": [
+        {
+          "name": "Nandom Alfred",
+          "linkedin": "nandom-alfred-054600159",
+          "github": "domkoder",
+          "discord": "scotrolex#5774"
+        },
+        {
+          "name": "Rhoda Michael",
+          "linkedin": "rhodamichael",
+          "github": "the-techgurl",
+          "discord": ".techgurl"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "benin-city",
+      "name": "OSCA Benin-City",
+      "city": "Benin-City",
+      "state": "Edo",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "benin-city@oscafrica.org",
+      "x": "oscabenincity",
+      "leads": [
+        {
+          "name": "Uchechukwu Ezenwigbo",
+          "linkedin": "emmanuel-ezenwigbo-194299195",
+          "github": "skyc0der",
+          "discord": "SkyCoder#9392"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "minna",
+      "name": "OSCA Minna",
+      "city": "Minna",
+      "state": "Niger",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "minna@oscafrica.org",
+      "x": "oscaminna",
+      "leads": [
+        {
+          "name": "Aliyu Abubakar",
+          "linkedin": "sadiqful",
+          "github": "sadiqful",
+          "discord": "Aliyu Abubakar #1469"
+        },
+        {
+          "name": "Umar Saidu",
+          "linkedin": "umarsaidu",
+          "github": "UmarAuna",
+          "discord": "umarauna"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "eldoret",
+      "name": "OSCA Eldoret",
+      "city": "Eldoret",
+      "state": "Uasin Gishu",
+      "country": "Kenya",
+      "region": "East Africa",
+      "email": "eldoret@oscafrica.org",
+      "x": "osca_eldoret",
+      "leads": [
+        {
+          "name": "James Aduke",
+          "linkedin": "james-aduke-245a06b7",
+          "github": "jamesaduke",
+          "discord": "jamesaduke44#4796"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "lome",
+      "name": "OSCA Lomé",
+      "city": "Lome",
+      "state": "Maritime",
+      "country": "Togo",
+      "region": "West Africa",
+      "email": "lome@oscafrica.org",
+      "x": "oscalome",
+      "leads": [
+        {
+          "name": "Martino Yovo",
+          "linkedin": "martino-yovo",
+          "github": "martinoyovo",
+          "discord": "Martino#2791"
+        },
+        {
+          "name": "Kpoti Ametepe",
+          "linkedin": "kpoti-ametepe-25b6b6172",
+          "github": "kpotia",
+          "discord": "kpotia"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "brusubi",
+      "name": "OSCA Brusubi",
+      "city": "Brusubi",
+      "state": "West Coast",
+      "country": "Gambia",
+      "region": "West Africa",
+      "email": "brusubi@oscafrica.org",
+      "x": "oscabrusubi",
+      "leads": [
+        {
+          "name": "Malik Lanlokun",
+          "linkedin": "malik-lanlokun-96a9081b8",
+          "github": "lanlokun",
+          "discord": "lanlokun"
+        },
+        {
+          "name": "Abdul Muizz Ikumapayi",
+          "linkedin": "abdul-muizz-ikumapayi",
+          "github": "lonewolve24",
+          "discord": "lonewolve_24"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "cotonou",
+      "name": "OSCA Cotonou",
+      "city": "Cotonou",
+      "state": "Littoral",
+      "country": "Benin",
+      "region": "West Africa",
+      "email": "cotonou@oscafrica.org",
+      "x": "oscacotonou",
+      "leads": [
+        {
+          "name": "Elikem Medehou",
+          "linkedin": "juniormedehou",
+          "github": "NemesisX1",
+          "discord": "elikemmedehou01"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "dar-es-salaam",
+      "name": "OSCA Dar es Salaam",
+      "city": "Dar es Salaam",
+      "state": "Dar es Salaam",
+      "country": "Tanzania",
+      "region": "East Africa",
+      "email": "dar-es-salaam@oscafrica.org",
+      "x": "oscadaressalaam",
+      "leads": [
+        {
+          "name": "Alex Mkwizu",
+          "linkedin": "alex-mkwizu",
+          "github": "genie360s",
+          "discord": "AlexMkwizu"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "okitipupa",
+      "name": "OSCA Okitipupa",
+      "city": "Ondo",
+      "state": "Ondo",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "okitipupa@oscafrica.org",
+      "x": "oscaokitipupa",
+      "leads": [
+        {
+          "name": "Joan Ayebola",
+          "linkedin": "joan-ayebola",
+          "github": "joanayebola",
+          "discord": "joanayebola"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "mogadishu",
+      "name": "OSCA Mogadishu",
+      "city": "Mogadishu",
+      "state": "Banaadir",
+      "country": "Somalia",
+      "region": "East Africa",
+      "email": "mogadishu@oscafrica.org",
+      "x": "oscamogadishu",
+      "leads": [
+        {
+          "name": "Sidow Adan Sidow",
+          "linkedin": "sidowxyz",
+          "github": "sidowxyz",
+          "discord": "sidowxyz#4485"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "osogbo",
+      "name": "OSCA Osogbo",
+      "city": "Osogbo",
+      "state": "Osun",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "osogbo@oscafrica.org",
+      "x": "oscaosogbo",
+      "leads": [
+        {
+          "name": "Jacob Isah",
+          "linkedin": "jacobisahe",
+          "github": "Isahjacob",
+          "discord": "Nexode"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "alimosho",
+      "name": "OSCA Alimosho",
+      "city": "Alimosho",
+      "state": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "alimosho@oscafrica.org",
+      "x": "oscaalimosho",
+      "leads": [
+        {
+          "name": "Jolade Okunlade",
+          "linkedin": "jolade-okunlade-1840a6138",
+          "github": "jolah1",
+          "discord": "jolah1"
+        }
+      ],
+      "alumniLeads": []
+    },
+    {
+      "slug": "katsina",
+      "name": "OSCA Katsina",
+      "city": "Katsina",
+      "state": "Katsina",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "email": "katsina@oscafrica.org",
+      "x": "oscakatsina",
+      "leads": [
+        {
+          "name": "Abdurrahman Uthman",
+          "linkedin": "codeknight0",
+          "github": "codeknight1",
+          "discord": "codeknight9857"
+        }
+      ],
+      "alumniLeads": []
+    }
+  ]
+}
