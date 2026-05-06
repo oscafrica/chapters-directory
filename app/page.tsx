@@ -1,5 +1,6 @@
 import { getAllChaptersWithEvents } from "@/lib/data";
 import { ChaptersList } from "@/components/chapters-list";
+import { Footer } from "@/components/footer";
 import { MapPin } from "lucide-react";
 
 export default async function HomePage() {
@@ -30,12 +31,7 @@ export default async function HomePage() {
         <ChaptersList chapters={chapters} />
       </main>
 
-      <footer className="border-t mt-auto">
-        <div className="container mx-auto px-4 py-6 text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} Open Source Community Africa. All rights
-          reserved.
-        </div>
-      </footer>
+      <Footer />
     </div>
   );
 }

@@ -5,6 +5,7 @@ import { getChapterWithEvents, getChapters } from "@/lib/data";
 import { EventsList } from "@/components/events-list";
 import { LeadCard } from "@/components/lead-card";
 import { Button } from "@/components/ui/button";
+import { Footer } from "@/components/footer";
 import { ArrowLeft, MapPin, Calendar, Mail } from "lucide-react";
 
 function XIcon({ className }: { className?: string }) {
@@ -172,11 +173,7 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
         </section>
       </main>
 
-      <footer className="border-t mt-auto">
-        <div className="container mx-auto px-4 py-6 text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} Community Chapters. All rights reserved.
-        </div>
-      </footer>
+      <Footer />
     </div>
   );
 }
