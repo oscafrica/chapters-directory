@@ -8,7 +8,7 @@
     "time": "6:00 PM - 8:30 PM (WAT)",
     "location": "Amazon Meeting Center",
     "rsvpUrl": "https://example.com/rsvp/sea-001",
-    "image": "https://images.unsplash.com/photo-1667372393086-9d4001d51cf1?w=400&h=200&fit=crop"
+    "image": "https://pbs.twimg.com/media/HDw1Tb8XcAAphUI?format=png&name=small"
   },
   {
     "id": "abeokuta-002",
@@ -19,7 +19,7 @@
     "time": "7:00 AM - 9:00 AM (WAT)",
     "location": "Storyville Coffee, Pike Place",
     "rsvpUrl": "https://example.com/rsvp/sea-002",
-    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=200&fit=crop"
+    "image": "https://pbs.twimg.com/media/Gl1fEgBWIAEbcgc?format=jpg&name=4096x4096"
   },
   {
     "id": "abeokuta-003",
@@ -30,17 +30,6 @@
     "time": "10:00 AM - 6:00 PM (WAT)",
     "location": "DigiPen Institute of Technology",
     "rsvpUrl": "https://example.com/rsvp/sea-003",
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&h=200&fit=crop"
-  },
-  {
-    "id": "abeokuta-004",
-    "chapterSlug": "abeokuta",
-    "title": "Machine Learning Study Group",
-    "description": "Bi-weekly study group working through ML courses and papers together. All skill levels welcome.",
-    "date": "2026-04-28",
-    "time": "6:30 PM - 8:30 PM (WAT)",
-    "location": "Microsoft Campus, Building 99",
-    "rsvpUrl": "https://example.com/rsvp/sea-004",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&h=200&fit=crop"
+    "image": "https://pbs.twimg.com/media/Gl1fEgBWIAEbcgc?format=jpg&name=4096x4096"
   }
 ]
