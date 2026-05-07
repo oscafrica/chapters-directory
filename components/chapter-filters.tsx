@@ -1,5 +1,6 @@
 "use client";
 
+import { Chapter } from "@/types";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Search, X } from "lucide-react";
@@ -7,6 +8,7 @@ import { Search, X } from "lucide-react";
 interface ChapterFiltersProps {
   searchQuery: string;
   onSearchChange: (query: string) => void;
+  chapters: Chapter[];
   countries: string[];
   selectedCountry: string | null;
   onCountryChange: (country: string | null) => void;
@@ -15,6 +17,7 @@ interface ChapterFiltersProps {
 export function ChapterFilters({
   searchQuery,
   onSearchChange,
+  chapters,
   countries,
   selectedCountry,
   onCountryChange,
@@ -44,7 +47,7 @@ export function ChapterFilters({
           size="sm"
           onClick={() => onCountryChange(null)}
         >
-          All Countries
+          All Chapters <span className="text-xs">({chapters.length})</span>
         </Button>
         {countries.map((country) => (
           <Button
@@ -53,7 +56,12 @@ export function ChapterFilters({
             size="sm"
             onClick={() => onCountryChange(country)}
           >
-            {country}
+            {country}{" "}
+            <span className="text-xs">
+              (
+              {chapters.filter((chapter) => chapter.country === country).length}
+              )
+            </span>
           </Button>
         ))}
       </div>

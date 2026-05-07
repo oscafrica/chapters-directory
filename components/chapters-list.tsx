@@ -38,6 +38,7 @@ export function ChaptersList({ chapters }: ChaptersListProps) {
       <ChapterFilters
         searchQuery={searchQuery}
         onSearchChange={setSearchQuery}
+        chapters={chapters}
         countries={countries}
         selectedCountry={selectedCountry}
         onCountryChange={setSelectedCountry}
@@ -46,7 +47,7 @@ export function ChaptersList({ chapters }: ChaptersListProps) {
       {filteredChapters.length === 0 ? (
         <div className="text-center py-12">
           <p className="text-muted-foreground">
-            No chapters found matching your criteria.
+            No OSCA chapters found matching your search entry.
           </p>
         </div>
       ) : (

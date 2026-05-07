@@ -1,14 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { Chapter } from "@/types";
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { MapPin, Users, Calendar } from "lucide-react";
 
@@ -20,7 +13,7 @@ interface ChapterCardProps {
 export function ChapterCard({ chapter, eventCount = 0 }: ChapterCardProps) {
   return (
     <Link href={`/c/${chapter.slug}`}>
-      <Card className="py-8 h-full overflow-hidden transition-all hover:shadow-lg hover:border-primary/50 group">
+      <Card className="py-8 h-full overflow-hidden transition-all border-orange-400 hover:shadow-lg group">
         <div className="relative h-40 overflow-hidden">
           <Image
             src={chapter.coverImage || "/pattern.png"}
@@ -28,7 +21,7 @@ export function ChapterCard({ chapter, eventCount = 0 }: ChapterCardProps) {
             fill
             className="object-cover transition-transform group-hover:scale-105"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
+          <div className="absolute inset-0 bg-linear-to-t from-black/30 to-transparent" />
           <Badge className="absolute bottom-3 left-3" variant="secondary">
             <MapPin className="w-3 h-3 mr-1" />
             {chapter.city}, {chapter.state}, {chapter.country}

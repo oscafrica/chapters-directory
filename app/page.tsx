@@ -22,7 +22,7 @@ export default async function HomePage() {
               />
             </div>
             <h1 className="text-3xl font-bold">
-              Open Source Community Africa <br /> Chapters Program
+              Open Source Community Africa <br /> Chapters Program 🌍
             </h1>
           </div>
           <p className="text-muted-foreground max-w-2xl">
