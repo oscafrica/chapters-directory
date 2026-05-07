@@ -27,7 +27,7 @@ export function EventFilters({
           placeholder="Search events..."
           value={searchQuery}
           onChange={(e) => onSearchChange(e.target.value)}
-          className="pl-10"
+          className="pl-10 bg-background"
         />
         {searchQuery && (
           <button

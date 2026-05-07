@@ -6,7 +6,7 @@ import { EventsList } from "@/components/events-list";
 import { LeadCard } from "@/components/lead-card";
 import { Button } from "@/components/ui/button";
 import { Footer } from "@/components/footer";
-import { ArrowLeft, MapPin, Calendar, Mail } from "lucide-react";
+import { ArrowLeft, MapPin, Mail } from "lucide-react";
 
 function XIcon({ className }: { className?: string }) {
   return (
@@ -41,8 +41,9 @@ export async function generateMetadata({ params }: ChapterPageProps) {
   }
 
   return {
-    title: `${chapter.name} | City Chapters`,
-    description: "anddd",
+    title: `${chapter.name} | OSCA Chapter`,
+    description:
+      "Open Source Community Africa (OSCA) is an inclusive community for open-source lovers, enthusiasts, advocates, and experts within Africa. The chapters program is a group of city-based contributors and maintainers, seeking to collaborate, learn, and grow together.",
   };
 }
 
@@ -66,7 +67,7 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
             className="object-cover"
             priority
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-background via-background/50 to-transparent" />
+          <div className="absolute inset-0 bg-linear-to-t from-background via-background/50 to-transparent" />
         </div>
 
         <div className="container mx-auto px-4">
@@ -84,13 +85,15 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
               </h1>
 
               <p className="text-muted-foreground max-w-3xl">
-                The Open Source Community Africa chapter in{" "}
+                This OSCA chapter brings together open source contributors and
+                maintainers from different backgrounds with shared struggles in
+                to collaborate, learn, and grow together via regular meetups,
+                workshops, and hackathons.{" "}
                 <b>
-                  {chapter.city}, {chapter.state}, {chapter.country}
+                  To join our private chatroom, kindly contact us via email or
+                  social media below
                 </b>
-                . We bring together open source contributors from different
-                backgrounds with shared struggles to collaborate, learn, and
-                grow together via regular meetups, workshops, and hackathons.
+                .
               </p>
 
               {/* Chapter Location */}

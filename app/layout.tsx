@@ -10,7 +10,7 @@ const lato = Lato({ subsets: ["latin"], weight: "400" });
 export const metadata: Metadata = {
   title: "OSCA Chapters Program",
   description:
-    "Discover local chapters, connect with chapter leads, and join community events.",
+    "Open Source Community Africa (OSCA) is an inclusive community for open-source lovers, enthusiasts, advocates, and experts within Africa. The chapters program is a group of city-based contributors and maintainers, seeking to collaborate, learn, and grow together.",
   generator: "v0.app",
   icons: {
     icon: [
