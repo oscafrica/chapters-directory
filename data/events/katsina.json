@@ -1,0 +1,13 @@
+[
+  {
+    "id": "katsina-001",
+    "chapterSlug": "katsina",
+    "title": "OSCA Katsina Info Session",
+    "description": "The OSCA Katsina Info Session is an introductory community event designed to introduce students, developers, and tech enthusiasts in Katsina to Open Source Community Africa (OSCA) and the broader open source ecosystem. The event will cover an introduction to open source, OSCA overview, the vision of OSCA Katsina, how beginners can start contributing, and include networking and Q&A.",
+    "date": "2026-02-11",
+    "time": "4:00 PM - 5:30 PM (WAT)",
+    "location": "Lumilab Innovation Hub, Katsina, Nigeria",
+    "rsvpUrl": "https://forms.gle/dRiJHrho5jf6dVQH6",
+    "image": "https://via.placeholder.com/400x400.png?text=OSCA+Katsina+Event"
+  }
+]
