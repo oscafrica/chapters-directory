@@ -1,0 +1,57 @@
+[
+  {
+    "id": "minna-005",
+    "chapterSlug": "minna",
+    "title": "Beyond the Hype: Unpacking The Good, The Bad, and The Ugly of Ethical and Responsible AI in Practice | OSCA MINNA",
+    "description": "",
+    "date": "2025-09-20",
+    "time": "11:30 AM (WAT)",
+    "location": "Google Meet",
+    "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-minna-presents-beyond-the-hype-unpacking-the-good-the-bad-and-the-ugly-of-ethical-and-responsible-ai-in-practice-1/",
+    "image": "https://scontent-los4-1.xx.fbcdn.net/v/t39.30808-6/549131741_24793978433572962_4742985999126823687_n.jpg?stp=dst-jpg_tt6&cstp=mx1224x1537&ctp=s1080x2048&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFciNrY4WsUIvD-K7UvjdWH02bWfy09qhnTZtZ_LT2qGRFSI8p7F7QzoqlvCOiTbarc66B1J3et3IpqBopg47K6&_nc_ohc=vtznN1RpQ70Q7kNvwHZqdQy&_nc_oc=AdpYMEcRm2F5W-T6QCWJpio18lI23MTcpCNJYR1wThxMC3PkoTcg1nj298cFL8bnIxQ&_nc_zt=23&_nc_ht=scontent-los4-1.xx&_nc_gid=a8jo1K_opgXVVNr4v4HwFQ&_nc_ss=7b2a8&oh=00_Af9B6dLYH_nbfI1KWKwIt0JGzAAC2P211WvmZVl796PLtw&oe=6A41CA71"
+  },
+  {
+    "id": "minna-004",
+    "chapterSlug": "minna",
+    "title": "Daytona Developers Club Tour '25, Minna",
+    "description": "Daytona Developers Club in partnership with OSCA Minna is bringing it's tour to Minna! 🎉. This event is a gathering of tech enthusiasts, AI engineers, open-source contributors, and developers passionate about AI Engineering, Tooling, and Open Source. Whether you're a beginner looking to explore the fundamentals or an experienced developer aiming to refine your skills, this event will offer valuable insights and hands-on discussions.",
+    "date": "2025-02-22",
+    "time": "10:00 AM (WAT)",
+    "location": "Window on America, Federal University of Technology, Minna",
+    "rsvpUrl": "https://luma.com/gw0t6wlf",
+    "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/event-covers/k2/6e002998-4b64-4fe9-ab18-69af7d4182f7.png"
+  },
+  {
+    "id": "minna-003",
+    "chapterSlug": "minna",
+    "title": "Best Practices For Testing the Accessibility of Your Web App/Site",
+    "description": "🚀 Join us for an insightful event on 'Best Practices for Testing the Accessibility of Your Web.' In today’s digital landscape, creating accessible web experiences is crucial. This event will dive into the essential techniques and tools for evaluating your website's accessibility. 💻 Whether you're a web developer, designer, or content strategist, you'll gain practical knowledge on how to ensure your site is inclusive and compliant with the latest accessibility standards. 🌐 Don't miss this opportunity to enhance your skills and make your web content accessible to everyone! 🔍",
+    "date": "2024-08-31",
+    "time": "10:30 AM (WAT)",
+    "location": "Jitsi Meet",
+    "rsvpUrl": "https://www.downtomeet.com/OSCA-Minna/Best-Practices-for-testing-the-accessibility-of-your-web-app-site-7063154",
+    "image": "https://pictures-cdn.downtomeet.com/MzUyMzg1OTc1ZTMwMWE,/20240812/MjE1ODMwNzZlMzMz/p/1000/Frame_13.png"
+  },
+  {
+    "id": "minna-002",
+    "chapterSlug": "minna",
+    "title": "Unlocking the Power of Flutter DevTools: A Beginner's Guide",
+    "description": "Embark on a journey into the world of Flutter development with our exclusive event, Flutter DevTools for Beginners. Whether you're just starting your coding adventure or looking to enhance your Flutter skills, this session is designed to demystify the incredible capabilities of Flutter DevTools. Join us for an immersive experience where we break down the essentials of Flutter DevTools, providing hands-on insights for beginners. Discover how this powerful set of debugging and performance tools can streamline your Flutter app development process, making it more efficient and enjoyable. Our expert speaker will guide you through the fundamentals, showcasing practical tips, tricks, and real-world examples to help you harness the full potential of Flutter DevTools. Whether you're troubleshooting issues, optimizing performance, or simply exploring the toolkit's functionalities, this event is your gateway to mastering Flutter DevTools.Don't miss this opportunity to accelerate your Flutter development journey. Unlocking the Power of Flutter DevTools: A Beginner's Guide is your key to unlocking a new level of proficiency and efficiency in building stunning Flutter applications. Join us and empower your coding endeavors with the tools that make Flutter development breathe properly without suffocating it! 😅😅",
+    "date": "2024-03-30",
+    "time": "10:30 (WAT)",
+    "location": "Google Meet",
+    "rsvpUrl": "https://www.downtomeet.com/OSCA-Minna/Unlocking-the-Power-of-Flutter-DevTools-A-Beginner-s-Guide-5297052",
+    "image": "https://pictures-cdn.downtomeet.com/MzUyMzg1OTc1ZTMwMWE,/20240314/MjEwMDg0OTAxNWU3/p/2560/Frame_10.png"
+  },
+  {
+    "id": "minna-001",
+    "chapterSlug": "minna",
+    "title": "Opensource Contribution Through HacktoberFest | OSCA-KANO && OSCA-MINNA",
+    "description": "Open Source Contribution Through Hacktoberfest is an interactive event designed to demystify open source, cultivate a sense of community, and empower you to make your first open source contributions. Whether you're a coding enthusiast, a designer, a writer, or just passionate about technology, this event is for you.",
+    "date": "2023-10-21",
+    "time": "11:00 (WAT)",
+    "location": "Google Meet",
+    "rsvpUrl": "https://cutt.ly/4wQtOohF",
+    "image": "https://res.cloudinary.com/dxrxviiv8/image/upload/v1782329598/Frame_6_viyf7c.png"
+  }
+]
